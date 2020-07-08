@@ -23,7 +23,7 @@ const Inicio = props => {
                     </Card.Content>
                     
                     <Card.Content>
-                    <buttom basic color='blue'>Login com Facebook</buttom> <br></br>
+                    <buttom basic color='blue'>Login com Facebook</buttom>
                     </Card.Content>
                 
                     <Card.Content>
