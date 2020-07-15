@@ -9,7 +9,7 @@ const Inicio = props => {
         <Navegacao />
             <Container>
 
-                <Segment piled>
+                <Segment>
                     Quiz
                 </Segment>
 

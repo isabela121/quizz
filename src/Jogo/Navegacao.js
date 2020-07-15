@@ -11,7 +11,7 @@ const Header = props => {
             <Menu.Item as={Link} to='/'>Home</Menu.Item>
             <Menu.Item as={Link} to='/categorias'>Categorias</Menu.Item>
             <Menu.Item as={Link} to='/perguntas'>Perguntas</Menu.Item>
-             <Menu.Item as={Link} to='/resultad'>Resultad</Menu.Item>
+            <Menu.Item as={Link} to='/resultad'>Resultado</Menu.Item>
             <Menu.Item as={Link} to='/ranking'>Ranking</Menu.Item>
             <Menu.Menu position='right'>
             <Menu.Item><Image avatar src=''> Isabela Santos</Image></Menu.Item>

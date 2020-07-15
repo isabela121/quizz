@@ -4,11 +4,11 @@ import {Menu, Dropdown} from 'semantic-ui-react'
 const Navegacao = props => {
     return(
 <div>
-    <header clasName="App-header">
+    <header clasName="App-header" style={{ background: 'Gainsboro', width: '137rem', height: '10rem' }}>
         <h1 className="App-title">Jogo de Perguntas e Respostas</h1>
            
             <Menu>
-                <Menu.Item><strong>Quizz</strong></Menu.Item>
+                <Menu.Item className="hom" style={{background: 'Gainsboro', position: 'relative', }}><strong></strong></Menu.Item>
                 <Menu.Item>Home</Menu.Item>
                 <Menu.Menu position='right'>
                     <Dropdown item text='Acese aqui'>  
